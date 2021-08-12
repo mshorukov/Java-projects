@@ -1,0 +1,24 @@
+
+
+// Map не относиться к коллекции
+put
+get
+size
+add
+remove
+iterator
+
+
+Collection interface
+1 List -- index, iterator
+2 Set -- Unique
+3 Queue -- Очереди, последовательность
+4 Map -- Коллекция которая может хранить объекты и доставать по ключу
+Пришли на замену к массивам
+
+Collections
+Упорядоченный -- последовательный LinkedHashSet
+Не упорядоченный --  HashSet не сохраняет порядок
+Отсортированные -- TreeSet сортирует по порядку
+
+

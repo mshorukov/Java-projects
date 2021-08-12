@@ -1,0 +1,1500 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Вход в Мир Lexus",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "Я зашел на сайт \"Lexus.com\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Я должен ввести zipcode 0312",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "Покупка Lexus Lx570",
+        "description": "",
+        "id": "покупка-lexus;покупка-lexus-lx570",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "Я должен пролистать вниз и должен увидеть \"Explore your Lexus\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "Я должен выбрать модель \"LX\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "Я должен увидеть последний модель \"lx570\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "Цена должна начинаться с 86930 долларов",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "Когда я нажал кнопку build",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "Сайт должен запросить zipCode",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "Я должен выбрать модель \"2021 LX 570 THREE-ROWS\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "Вкладке \"EXTERIOR COLORS\" я должен выбрать \"Black Onyx\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 18,
+            "name": "Цена \"lx570\" поменяться с 93700 на 93275",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 19,
+            "name": "Я должен нажать на кнопку Summary",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "Я должен увидеть \"YOU\u0027LL TURN HEADS\" такой текс",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "Я должен нажать на кнопку Send to dealer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 22,
+            "name": "Сайт выдал анкету для заполнения",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 23,
+            "name": "В поле First name я должен ввести \"Murat\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 24,
+            "name": "В поле Last name я должен ввести \"Shorukov\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 25,
+            "name": "В поле Email я должен ввести \"shorukov.murat94@gmail.com\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 26,
+            "name": "В поле Phone number должен ввести 996555111222",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 27,
+            "name": "Я должен нажать на кнопку Submit",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 28,
+            "name": "Я должен увидеть надпись \"THANK YOU. WE\u0027LL BE IN TOUCH SHORTLY\"",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "Вход в Мир Lexus",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "Я зашел на сайт \"Lexus.com\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Я должен ввести zipcode 0312",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Купить RX350",
+        "description": "",
+        "id": "покупка-lexus;купить-rx350",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 31,
+            "name": "Я должен пролистать вниз и должен увидеть \"Explore your Lexus\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 32,
+            "name": "Я должен выбрать модель \"RX\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 33,
+            "name": "Я должен увидеть последний модель \"rx350\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 34,
+            "name": "Цена должна начинаться с 45320 долларов",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 35,
+            "name": "Когда я нажал кнопку build",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 36,
+            "name": "Сайт должен запросить zipCode",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 37,
+            "name": "Я должен выбрать модель \"2021 RX 350 THREE-ROWS\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 38,
+            "name": "Вкладке \"EXTERIOR COLORS\" я должен выбрать \"Black Onyx\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 39,
+            "name": "Цена \"rx350\" поменяться с 45370 на 50000",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 40,
+            "name": "Я должен нажать на кнопку Summary",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 41,
+            "name": "Я должен увидеть \"YOU\u0027LL TURN HEADS\" такой текс",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 42,
+            "name": "Я должен нажать на кнопку Send to dealer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 43,
+            "name": "Сайт выдал анкету для заполнения",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 44,
+            "name": "В поле First name я должен ввести \"Murat\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 45,
+            "name": "В поле Last name я должен ввести \"Shorukov\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 46,
+            "name": "В поле Email я должен ввести \"shorukov.murat94@gmail.com\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 47,
+            "name": "В поле Phone number должен ввести 996555111222",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 48,
+            "name": "Я должен нажать на кнопку Submit",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 49,
+            "name": "Я должен увидеть надпись \"THANK YOU. WE\u0027LL BE IN TOUCH SHORTLY\"",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "Вход в Мир Lexus",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "Я зашел на сайт \"Lexus.com\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "Я должен ввести zipcode 0312",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 52,
+        "name": "Купить LS430",
+        "description": "",
+        "id": "покупка-lexus;купить-ls430",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 53,
+            "name": "Я должен пролистать вниз и должен увидеть \"Explore your Lexus\"",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 54,
+            "name": "Я должен выбрать модель \"LS\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 55,
+            "name": "Я должен увидеть последний модель \"ls430\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 56,
+            "name": "Цена должна начинаться с 70000 долларов",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 57,
+            "name": "Когда я нажал кнопку build",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 58,
+            "name": "Сайт должен запросить zipCode",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 59,
+            "name": "Я должен выбрать модель \"2021 LS 430 TRHEE-ROWS\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 60,
+            "name": "Вкладке \"EXTERIOR COLORS\" я должен выбрать \"Black Onyx\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 61,
+            "name": "Цена \"ls430\" поменяться с 70000 на 80000",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 62,
+            "name": "Я должен нажать на кнопку Summary",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 63,
+            "name": "Я должен увидеть \"YOU\u0027LL TURN HEADS\" такой текс",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 64,
+            "name": "Я должен нажать на кнопку Send to dealer",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 65,
+            "name": "Сайт выдал анкету для заполнения",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 66,
+            "name": "В поле First name я должен ввести \"Murat\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 67,
+            "name": "В поле Last name я должен ввести \"Shorukov\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 68,
+            "name": "В поле Email я должен ввести \"shorukov.murat94@gmail.com\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 69,
+            "name": "В поле Phone number должен ввести 996555111222",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 70,
+            "name": "Я должен нажать на кнопку Submit",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 71,
+            "name": "Я должен увидеть надпись \"THANK YOU. WE\u0027LL BE IN TOUCH SHORTLY\"",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Покупка Lexus",
+    "description": "",
+    "id": "покупка-lexus",
+    "keyword": "Feature",
+    "uri": "features/Lexus.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Regression"
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Проверка Логин функции",
+        "description": "",
+        "id": "scenario-outline-feature;проверка-логин-функции;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 91442531,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Я как пользователь должен открыть сайт \"fb.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "fb.com",
+                  "offset": 40
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_как_пользователь_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 189482,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "В поле email вводим email \"test@test.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "test@test.com",
+                  "offset": 27
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_email_вводим_email(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 136790,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "В поле пароль вводим \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 22
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_пароль_вводим(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 114974,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Я должен нажать на кнопку войти в систему",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_войти_в_систему()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 77065,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Система должна вывести ошибку \"Вы ввели не правильные данные\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Вы ввели не правильные данные",
+                  "offset": 31
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_вывести_ошибку(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Проверка Логин функции",
+        "description": "",
+        "id": "scenario-outline-feature;проверка-логин-функции;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 69571,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Я как пользователь должен открыть сайт \"fb.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "fb.com",
+                  "offset": 40
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_как_пользователь_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 39519,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "В поле email вводим email \"test123@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "test123@gmail.com",
+                  "offset": 27
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_email_вводим_email(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 56363,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "В поле пароль вводим \"Hello312\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hello312",
+                  "offset": 22
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_пароль_вводим(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15745,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Я должен нажать на кнопку войти в систему",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_войти_в_систему()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 39086,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Система должна вывести ошибку \"Вы ввели не правильные данные\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Вы ввели не правильные данные",
+                  "offset": 31
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_вывести_ошибку(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Проверка Логин функции",
+        "description": "",
+        "id": "scenario-outline-feature;проверка-логин-функции;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 58048,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Я как пользователь должен открыть сайт \"fb.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "fb.com",
+                  "offset": 40
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_как_пользователь_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 264519,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "В поле email вводим email \"john@yahoo.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "john@yahoo.com",
+                  "offset": 27
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_email_вводим_email(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 132726,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "В поле пароль вводим \"Password123!@#\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Password123!@#",
+                  "offset": 22
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_пароль_вводим(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 111960,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Я должен нажать на кнопку войти в систему",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_войти_в_систему()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 167332,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Система должна вывести ошибку \"Вы ввели не правильные данные\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Вы ввели не правильные данные",
+                  "offset": 31
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_вывести_ошибку(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Поиск по имени и фамилии в Vkontakte",
+        "description": "",
+        "id": "scenario-outline-feature;поиск-по-имени-и-фамилии-в-vkontakte;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 127617,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Я должен открыть сайт \"vk.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "vk.com",
+                  "offset": 23
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 66324,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Я должен перейти на окно поиска",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_перейти_на_окно_поиска()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 53191,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "В поле имя я должен ввести \"Юра\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Юра",
+                  "offset": 28
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_имя_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41916,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "В поле фамилия я должен ввести \"Гагарин\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Гагарин",
+                  "offset": 32
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_фамилия_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75442,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Я должен нажать на кнопку поиск",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_поиск()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1068618,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Система должна показать людей \"Юрий\" и \"Гагарин\" + и его идентификационный номер 789456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Юрий",
+                  "offset": 31
+                },
+                {
+                  "val": "Гагарин",
+                  "offset": 40
+                },
+                {
+                  "val": "789456",
+                  "offset": 81
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_показать_людей_и_и_его_идентификационный_номер(String,String,int)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Поиск по имени и фамилии в Vkontakte",
+        "description": "",
+        "id": "scenario-outline-feature;поиск-по-имени-и-фамилии-в-vkontakte;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 334611,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Я должен открыть сайт \"vk.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "vk.com",
+                  "offset": 23
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 26578,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Я должен перейти на окно поиска",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_перейти_на_окно_поиска()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125439,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "В поле имя я должен ввести \"Ваня\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ваня",
+                  "offset": 28
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_имя_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125747,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "В поле фамилия я должен ввести \"Петр\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Петр",
+                  "offset": 32
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_фамилия_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 64848,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Я должен нажать на кнопку поиск",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_поиск()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 405184,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Система должна показать людей \"Иван\" и \"Петров\" + и его идентификационный номер 454511",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Иван",
+                  "offset": 31
+                },
+                {
+                  "val": "Петров",
+                  "offset": 40
+                },
+                {
+                  "val": "454511",
+                  "offset": 80
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_показать_людей_и_и_его_идентификационный_номер(String,String,int)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 32,
+        "name": "Поиск по имени и фамилии в Vkontakte",
+        "description": "",
+        "id": "scenario-outline-feature;поиск-по-имени-и-фамилии-в-vkontakte;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 111159,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Я должен открыть сайт \"vk.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "vk.com",
+                  "offset": 23
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15025,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Я должен перейти на окно поиска",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_перейти_на_окно_поиска()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 34984,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "В поле имя я должен ввести \"Нута\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Нута",
+                  "offset": 28
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_имя_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 95108,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "В поле фамилия я должен ввести \"Мусакунов\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Мусакунов",
+                  "offset": 32
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_фамилия_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28013,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Я должен нажать на кнопку поиск",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_поиск()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 541525,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Система должна показать людей \"Нурсултан\" и \"Мусакунов\" + и его идентификационный номер 152112",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Нурсултан",
+                  "offset": 31
+                },
+                {
+                  "val": "Мусакунов",
+                  "offset": 45
+                },
+                {
+                  "val": "152112",
+                  "offset": 88
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_показать_людей_и_и_его_идентификационный_номер(String,String,int)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "Поиск по имени и фамилии в Vkontakte",
+        "description": "",
+        "id": "scenario-outline-feature;поиск-по-имени-и-фамилии-в-vkontakte;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 161711,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Я должен открыть сайт \"vk.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "vk.com",
+                  "offset": 23
+                }
+              ],
+              "location": "ScenarioOutlineSteps.я_должен_открыть_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 67219,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Я должен перейти на окно поиска",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_перейти_на_окно_поиска()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 84219,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "В поле имя я должен ввести \"Вася\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Вася",
+                  "offset": 28
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_имя_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 112505,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "В поле фамилия я должен ввести \"Вася\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Вася",
+                  "offset": 32
+                }
+              ],
+              "location": "ScenarioOutlineSteps.в_поле_фамилия_я_должен_ввести(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62921,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Я должен нажать на кнопку поиск",
+            "match": {
+              "location": "ScenarioOutlineSteps.я_должен_нажать_на_кнопку_поиск()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151451,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Система должна показать людей \"Василий\" и \"Василев\" + и его идентификационный номер 114332",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Василий",
+                  "offset": 31
+                },
+                {
+                  "val": "Василев",
+                  "offset": 43
+                },
+                {
+                  "val": "114332",
+                  "offset": 84
+                }
+              ],
+              "location": "ScenarioOutlineSteps.система_должна_показать_людей_и_и_его_идентификационный_номер(String,String,int)"
+            },
+            "matchedColumns": [
+              2,
+              3,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Scenario Outline feature",
+    "description": "",
+    "id": "scenario-outline-feature",
+    "keyword": "Feature",
+    "uri": "features/ScenarioOutline.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Regression"
+      }
+    ]
+  }
+]
